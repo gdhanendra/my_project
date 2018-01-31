@@ -10,7 +10,7 @@ public class Hello {
 		else{
 		msg = "hi my name is Dhanendra";
 		}
-		return message;
+		return msg;
 	}
 
 }
