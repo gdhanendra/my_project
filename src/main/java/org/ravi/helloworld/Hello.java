@@ -8,7 +8,7 @@ public class Hello {
 		msg = message;
 		}
 		else{
-		message = "hi my name is Dhanendra";
+		msg = "hi my name is Dhanendra";
 		}
 		return message;
 	}
